@@ -2,6 +2,6 @@
 
 Selected materials from courses I have taught. Contact me at <pbiscaye@berkeley.edu> for more information.
 
-- EEP/IAS 118: Introductory Applied Econometrics, UC Berkeley
+- EEP 118: Introductory Applied Econometrics, UC Berkeley Fall 2021
 
 If you want to cite these materials, please consider the following [citation](https://github.com/pbiscaye/Teaching/blob/main/CITATION.md).
