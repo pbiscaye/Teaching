@@ -26,4 +26,5 @@
 - Lecture 24: Instrumental varirables
 - Lecture 25: More on IV and wrapping up
 
-Note: This course generally follows the material in Wooldridge's *Introductory Econometrics*. Lecture materials rely heavily on original lecture slides produced by Professor Jeremy Magruder.
+Note 1: This course generally follows the material in Wooldridge's *Introductory Econometrics*. Lecture materials rely heavily on original lecture slides produced by Professor Jeremy Magruder.
+Note 2: Links to Jupyter Notebooks will likely not work for students outside of UC Berkeley. In the future I may post revised slides with working links to Jupyter Notebooks hosted outside of the UC Berkeley ecosystem. 
