@@ -1,4 +1,4 @@
-# Sections Outline
+# Lectures Outline
 
 - Lecture 1: Why study econometrics?
 - Lecture 2: Functional forms and random samples
