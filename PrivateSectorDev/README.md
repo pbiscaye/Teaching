@@ -2,7 +2,7 @@
 
 Ce site contient du matériel pour mon cours Secteur Privé et Développement à l'Université Clermont Auvergne. Contactez-moi à <pierre.biscaye@uca.fr> pour plus d'informations.
 
-** Documents clés**
+**Documents clés**
 - [Syllabus](https://github.com/pbiscaye/Teaching/blob/main/PrivateSectorDev/Syllabus_Biscaye_PrivateSectorDev.pdf)
 - [Lectures obligatoires](https://github.com/pbiscaye/Teaching/tree/main/PrivateSectorDev/Readings)
 - [Notes de cours](https://github.com/pbiscaye/Teaching/tree/main/PrivateSectorDev/Notes)
