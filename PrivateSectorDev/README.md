@@ -1,6 +1,6 @@
 # Private Sector and Development (UCA)
 
-This site contains material for my microeconomics of development theory course at the Université Clermont Auvergne. Slides are available in English and in French. Contact me at <pierre.biscaye@uca.fr> for more information.
+This site contains material for my microeconomics of development theory and applications course at the Université Clermont Auvergne. Slides are available in English and in French. Contact me at <pierre.biscaye@uca.fr> for more information.
 
 **Key documents**
 - [Syllabus](https://github.com/pbiscaye/Teaching/blob/main/PrivateSectorDev/Syllabus_Biscaye_PrivateSectorDev.pdf)
