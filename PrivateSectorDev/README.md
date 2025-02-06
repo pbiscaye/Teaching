@@ -12,7 +12,7 @@ This site contains material for my microeconomics of development theory and appl
 1. Household production, markets, and separation
 2. Risk and uncertainty
 3. Technology adoption
-4. Credit
-5. Labor markets
+4. Credit, capital, and firm growth
+5. Labor markets and unemployment
 6. Businesses, entrepreneurs, and training
 
