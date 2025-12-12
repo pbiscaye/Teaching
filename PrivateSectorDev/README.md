@@ -9,10 +9,11 @@ This site contains material for my microeconomics of development theory and appl
 - [Sign-up](https://docs.google.com/spreadsheets/d/1BJvt9-7XEBcA0S8GgXMoQzAn4TXqm8reTMGAyIUviRI/edit?usp=sharing) for paper presentations
 
 **Course outline**
-1. Household production, markets, and separation
-2. Risk and uncertainty
-3. Technology adoption
-4. Credit, capital, and firm growth
-5. Labor markets and unemployment
-6. Businesses, entrepreneurs, and training
+1. Introduction and motivation
+2. Household production, markets, and separation
+3. Risk and uncertainty
+4. Technology adoption
+5. Credit, capital, and firm growth
+6. Labor markets and unemployment
+7. Businesses, entrepreneurs, and training
 
