@@ -148,7 +148,7 @@ This document provides a selection of links to useful resources for various aspe
 * **Stata visualization:**
    * [Official Stata Publication-Quality Graphics](https://www.stata.com/features/publication-quality-graphics/).
    * [Making Coefficient Plots in Stata (John Kane)](https://medium.com/the-stata-gallery/making-regression-coefficient-plots-in-stata-7b100feac0cb).
-   * [Better Stata Graphs Tips ([Nicholas Davis)](https://www.nicholastdavis.com/wp-content/uploads/2018/12/davis_better_graphs.pdf).
+   * [Better Stata Graphs Tips (Nicholas Davis)](https://www.nicholastdavis.com/wp-content/uploads/2018/12/davis_better_graphs.pdf).
    * [DIME Analytics Visual Library](https://worldbank.github.io/stata-visual-library/) — Extensive code and examples for economic visualizations.
    * [The Stata Visualizations Gallery](https://medium.com/the-stata-gallery).
 
@@ -294,6 +294,7 @@ This document provides a selection of links to useful resources for various aspe
         * [Main Repository](https://github.com/giswqs/intro-gispro/tree/main).
 
 [🔝 Back to Top](#-table-of-contents)
+
 ---
 
 ### 🐘 Big Data
@@ -453,7 +454,7 @@ This document provides a selection of links to useful resources for various aspe
    * [Additional Topics](https://dimewiki.worldbank.org/SurveyCTO_Additional_Topics)
 * **Qualtrics Fundamentals:** [D-Lab Workshop](https://dlab-berkeley.github.io/dlab-workshops/workshop/qualtrics-fundamentals).
 
-[↑ Back to Top](#-table-of-contents)
+[🔝 Back to Top](#-table-of-contents)
 
 ---
 
