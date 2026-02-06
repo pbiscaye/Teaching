@@ -9,8 +9,8 @@ Selected materials from courses I have taught. Contact me at <pbiscaye@berkeley.
 
 If you want to use these materials, please consider the following [citation](https://github.com/pbiscaye/Teaching/blob/main/CITATION.md).
 
-I maintain an [index of resources](https://github.com/pbiscaye/Teaching/blob/main/Data%20science%20resources%20index.pdf) related to data science for economists. It consists of a set of links to useful websites I have come across in recent years, organized by topic. The index currently has the following sections:
-- Coding languages and tools: Python, R, Stata, Git, Excel, Latex, SurveyCTO 
+I maintain an [index of resources](https://github.com/pbiscaye/Teaching/blob/main/DataScienceResourcesIndex.md) related to data science for economists. It consists of a set of links to useful websites I have come across in recent years, organized by topic. The index currently has the following sections:
+- Coding languages and tools: Python, R, Stata, Git, Excel, Latex
 - Analysis tools: Google Earth Engine, machine learning, web scraping, geospatial analysis, big data,  generative AI/LLMs, text analysis/NLP
 - Causal inference: general causal inference, specific econometric methods
-- Other resources: data, research resources, additional resources
+- Other resources: data, research resources, survey implementation, additional resources
