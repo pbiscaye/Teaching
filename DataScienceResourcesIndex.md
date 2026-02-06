@@ -7,7 +7,7 @@ This document provides a selection of links to useful resources for various aspe
 ---
 
 ## 📍 Table of Contents
-* [💻 Software Packages](#-software-packages)
+* [💻 Software and Applications](#-software-packages)
     * [🐍 Python](#-python)
     * [📈 R](#-r)
     * [📊 Stata](#-stata)
