@@ -436,8 +436,11 @@ This document provides a selection of links to useful resources for various aspe
 ---
 
 ### 🔬 Research Resources
-* **J-PAL Evaluation Resources:** * [Resources for Randomized Evaluations](https://www.povertyactionlab.org/research-resources?view=toc#choose-a-view) — Comprehensive guides on RCT design and implementation.
+* **J-PAL Evaluation Resources:** *
+    * [Research Resources](https://www.povertyactionlab.org/research-resources?view=toc)
+    * [Resources for Randomized Evaluations](https://www.povertyactionlab.org/research-resources?view=toc#choose-a-view) — Comprehensive guides on RCT design and implementation.
     * [Handbook on Using Administrative Data](https://admindatahandbook.mit.edu/book/v1.1/index.html).
+    * Other resources: Health care evaluation toolkit, Guide for early career researchers
 * **Literature Search & Access:**
     * [Ungated Research](https://ungated.research.bowdoin.edu/) — Access to selected papers from top economics journals.
     * [Connected Papers](https://www.connectedpapers.com/) — Visual tool to find related papers by topic or citation networks.
@@ -460,7 +463,8 @@ This document provides a selection of links to useful resources for various aspe
 
 ### 🌟 Additional Resources
 * **Events & Media:**
-    * [Economics Conferences Spreadsheet](https://docs.google.com/spreadsheets/d/1MNeXLKiwQA4MK3cZ3Hr1WWXZTReh3rKQU_yfTKnu-hg/htmlview?urp=gmail_link#) — Crowdsourced list of upcoming econ conferences.
+    * [Economics Conferences Spreadsheet (Anne Burton and Barton Willage](https://docs.google.com/spreadsheets/d/1MNeXLKiwQA4MK3cZ3Hr1WWXZTReh3rKQU_yfTKnu-hg/htmlview?urp=gmail_link#) — Crowdsourced list of upcoming econ conferences.
+    * [Econmoics journals with short paper options (David Evans)](https://docs.google.com/spreadsheets/d/19eOOIIIRitfCOcsFbGHQseiVSg35sNyxATCIcE-G5h0/htmlview).
     * [Econimate](https://www.youtube.com/c/econimate/playlists) — Educational videos illustrating various economic topics.
     * [VoxDev: Where to Find Dev Econ Media](https://voxdev.org/topic/where-find-development-economics-resources-newsletters-articles-podcasts-videos) — Curated list of newsletters, podcasts, and articles.
 * **Training & Tools:**
