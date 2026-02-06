@@ -14,7 +14,7 @@ This document provides a selection of links to useful resources for various aspe
     * [☁️ Git](#️-git)
     * [🔢 Excel](#-excel)
     * [📄 Latex](#-latex)
-    * [📝 SurveyCTO & Qualtrics](#-surveycto--qualtrics)
+    * [📝 Survey Implementation](#-survey-implementation)
 * [🔍 Analysis Tools](#-analysis-tools)
     * [🌍 Google Earth Engine](#-google-earth-engine)
     * [🤖 Machine Learning](#-machine-learning)
