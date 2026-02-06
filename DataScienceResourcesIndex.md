@@ -327,6 +327,7 @@ This document provides a selection of links to useful resources for various aspe
 * **Generative AI for Econ Research (Anton Korinek):** [genaiforecon.org](https://www.genaiforecon.org/index.html).
 * **AI in Research and Teaching (Paul GP):** [Practical Guide](https://paulgp.github.io/2024/06/24/llm_talk.html)
     * Topics: VS Code and Copilot, Chat LLMs, Midjourney images, and running LLMs locally.
+* **AI Skills for Economists (Antonio Mele):** [Awesome Econ AI](https://meleantonio.github.io/awesome-econ-ai-stuff/)
 
 [🔝 Back to Top](#-table-of-contents)
 
