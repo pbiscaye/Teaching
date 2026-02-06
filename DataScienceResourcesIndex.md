@@ -14,7 +14,6 @@ This document provides a selection of links to useful resources for various aspe
     * [☁️ Git](#️-git)
     * [🔢 Excel](#-excel)
     * [📄 Latex](#-latex)
-    * [📝 Survey Implementation](#-survey-implementation)
 * [🔍 Analysis Tools](#-analysis-tools)
     * [🌍 Google Earth Engine](#-google-earth-engine)
     * [🤖 Machine Learning](#-machine-learning)
@@ -30,6 +29,7 @@ This document provides a selection of links to useful resources for various aspe
 * [📚 Other Resources](#-other-resources)
     * [💾 Data Sources](#-data-sources)
     * [🔬 Research Resources](#-research-resources)
+    * [📝 Survey Implementation](#-survey-implementation)
     * [🌟 Additional Resources](#-additional-resources)
 
 ---
@@ -186,17 +186,6 @@ This document provides a selection of links to useful resources for various aspe
 * **Beamer Tips:** [Paul GP's Beamer Tips](https://paulgp.github.io/2018/04/30/beamer-tips.html) — Best practices for creating presentation slides.
 
 [🔝 Back to Top](#-table-of-contents)
-
----
-
-### 📝 Survey Implementation
-* **DIME Wiki SurveyCTO:**
-   * [Programming Practices](https://dimewiki.worldbank.org/SurveyCTO_Programming).
-   * [Coding Practices](https://dimewiki.worldbank.org/index.php?title=SurveyCTO_Coding_Practices&redirect=no).
-   * [Additional Topics](https://dimewiki.worldbank.org/SurveyCTO_Additional_Topics)
-* **Qualtrics Fundamentals:** [D-Lab Workshop](https://dlab-berkeley.github.io/dlab-workshops/workshop/qualtrics-fundamentals).
-
-[↑ Back to Top](#-table-of-contents)
 
 ---
 
@@ -454,6 +443,17 @@ This document provides a selection of links to useful resources for various aspe
     * [EconLit Pipeline (Paul Goldsmith-Pinkham)](https://paulgp.com/econlit-pipeline/index.html) — Full-text search for top economics journals and NBER working papers.
 
 [🔝 Back to Top](#-table-of-contents)
+
+---
+
+### 📝 Survey Implementation
+* **DIME Wiki SurveyCTO:**
+   * [Programming Practices](https://dimewiki.worldbank.org/SurveyCTO_Programming).
+   * [Coding Practices](https://dimewiki.worldbank.org/index.php?title=SurveyCTO_Coding_Practices&redirect=no).
+   * [Additional Topics](https://dimewiki.worldbank.org/SurveyCTO_Additional_Topics)
+* **Qualtrics Fundamentals:** [D-Lab Workshop](https://dlab-berkeley.github.io/dlab-workshops/workshop/qualtrics-fundamentals).
+
+[↑ Back to Top](#-table-of-contents)
 
 ---
 
