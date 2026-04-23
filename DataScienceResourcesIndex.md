@@ -393,6 +393,7 @@ This document provides a selection of links to useful resources for various aspe
     * [Asjad Naqvi's DiD Guide](https://asjadnaqvi.github.io/DiD/): Comparison of packages across Stata, R, Python, and Julia.
     * [HonestDiD (Stata)](https://github.com/mcaceresb/stata-honestdid).
     * [Pedro Sant'Anna's DiD Checklist](https://causalinf.substack.com/p/pedros-diff-in-diff-checklist-step).
+    * [de Chaisemartin et al DiD tutorial](https://credible-answers.github.io/did_multiplegt_dyn_tutorial/): Worked examples with data from 4 papers with code in Stata, R, and Python and different potential DiD scenarios.
 * **Replication Databases:** [Dropbox Folder](https://www.dropbox.com/scl/fo/0ohwq294bknhn7hdoa7yf/ALV36_DEERdTz_XoCJPEyhc?rlkey=k9zv22k4jnco7zydfok4cvtfc&e=1&dl=0) — Databases of replicable papers organized by method.
 * **Fixed Effects Models:** [Josh Blumenstock's Lecture Notes (PDF)](http://www.jblumenstock.com/files/courses/econ174/FEModels.pdf).
 * **Power Analysis:** [UCLA Statistical Consulting Seminar](https://stats.idre.ucla.edu/other/mult-pkg/seminars/intro-power/).
